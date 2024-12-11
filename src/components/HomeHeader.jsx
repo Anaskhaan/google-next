@@ -11,7 +11,7 @@ export default function HomeHeader() {
         <Link href={"https://image.google.com"} className="hover:underline">
           Images
         </Link>
-        <BsFillGrid3X3GapFill className="bg-transparent hover:bg-gray-200 rounded-full text-4xl p-2" />
+        <BsFillGrid3X3GapFill className="bg-transparent hover:bg-gray-200 hover:rounded-full text-4xl p-2" />
         <button className="bg-blue-500 text-white px-6 py-2 rounded-md hover:brightness-105 hover:shadow-md transition-shadow">
           Sign In
         </button>

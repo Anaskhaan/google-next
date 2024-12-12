@@ -28,6 +28,3 @@ export default async function WebSearchPage({ searchParams }) {
 
   return <div>{results && <WebSearchResults results={data} />}</div>;
 }
-{
-  /* <h1 key={result.link}>{result.title}</h1>; */
-}
